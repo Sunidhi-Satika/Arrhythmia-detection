@@ -1,5 +1,3 @@
-<div align="left">
-
 # 🫀 Automated ECG Delineation & Multi-Label Arrhythmia Detection
 
 **End-to-end pipeline for ECG signal pre-processing, wavelet-based fiducial point delineation, and multi-label cardiac arrhythmia classification using deep residual neural networks.**
@@ -11,8 +9,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 [Key Features](#-key-features) • [Pipeline Architecture](#-pipeline-architecture) • [Project Structure](#-project-structure) • [Installation](#-installation--setup) • [Usage](#-usage-guide) • [Model & Results](#-model-architecture--results)
-
-</div>
 
 ---
 
